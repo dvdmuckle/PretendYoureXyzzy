@@ -12,7 +12,7 @@
 
   <scm>
     <url>https://github.com/dvdmuckle/PretendYoureXyzzy</url>
-    <connection>scm:git:ssh://git@github.com/dvdmuckle/PretendYoureXyzzy.git</connection>
+    <connection>scm:git:https://github.com/dvdmuckle/PretendYoureXyzzy.git</connection>
   </scm>
 
   <properties>
